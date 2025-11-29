@@ -51,5 +51,5 @@ int main(){
     agac = ekle(agac,8);
     agac = ekle(agac,56);
     yaznode(agac);
-
+    return 0 ;
 }
